@@ -13,7 +13,8 @@ These are named `lecture_XX.py`.
 
 You can compile a lecture by running:
 
-        python execute.py -m lecture_01
+        # python execute.py -m lecture_01
+        python ./edtrace/backend/src/edtrace/execute.py -m lecture_01
 
 which generates a `var/traces/lecture_01.json` and caches any images as
 appropriate.
