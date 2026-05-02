@@ -1,7 +1,7 @@
 [project]
 name = "lectures"
 version = "0.1.0"
-description = "Add your description here"
+description = "your description goes here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
